@@ -1,5 +1,7 @@
 # docker-embulk
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/tkuchiki/embulk.svg?style=for-the-badge)](https://hub.docker.com/r/tkuchiki/embulk/)
+
 ## Build
 
 ```console
